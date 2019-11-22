@@ -1,0 +1,76 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/Tysmacpro/Downloads/byndwallet-android",
+      "sdkFolder": "/Users/Tysmacpro/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/app",
+      "makeFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/.cxx",
+      "cxxFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx",
+      "ndkFolder": "/Users/Tysmacpro/Library/Android/sdk/ndk/20.1.5948944",
+      "ndkVersion": "20.1.5948944",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DANDROID_TOOLCHAIN\u003dclang"
+    ],
+    "cFlagList": [
+      "-DBITCOIN_TESTNET\u003d0"
+    ],
+    "cppFlagsList": [],
+    "variantName": "loafRelease",
+    "soFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/app/build/intermediates/cmake/loafRelease/lib",
+    "objFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/app/build/intermediates/cmake/loafRelease/obj",
+    "jsonFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cmake/loafRelease",
+    "gradleBuildOutputFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cxx/loafRelease",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [
+      "core-lib"
+    ]
+  },
+  "abi": "X86",
+  "abiPlatformVersion": 23,
+  "cxxBuildFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cmake/loafRelease/x86",
+  "jsonFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cmake/loafRelease/x86/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cxx/loafRelease/x86",
+  "objFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/app/build/intermediates/cmake/loafRelease/obj/x86",
+  "buildCommandFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cmake/loafRelease/x86/build_command.txt",
+  "buildOutputFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cmake/loafRelease/x86/build_output.txt",
+  "modelOutputFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cmake/loafRelease/x86/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cxx/loafRelease/x86/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cxx/loafRelease/x86/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cxx/loafRelease/x86/build_generation_state.json",
+    "cacheKeyFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cxx/loafRelease/x86/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cxx/loafRelease/x86/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cxx/loafRelease/x86/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cxx/loafRelease/x86/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cmake/loafRelease/x86/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cmake/loafRelease/x86/compile_commands.json"
+}

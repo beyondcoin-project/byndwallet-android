@@ -1,0 +1,10 @@
+CMake Error at CMakeLists.txt:23 (add_library):
+  Cannot find source file:
+
+    src/main/jni/byndwallet-core/BRAddress.c
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+
+
+CMake Error: CMake can not determine linker language for target: core-lib

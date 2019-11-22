@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="default_web_client_id"          translatable="false">888197856521-rslthi2iba2qd01b6jnhgu786u8tvoed.apps.googleusercontent.com</string>
+    <string name="firebase_database_url"          translatable="false">https://slice-wallet.firebaseio.com</string>
+    <string name="gcm_defaultSenderId"            translatable="false">888197856521</string>
+    <string name="google_api_key"                 translatable="false">AIzaSyAB1bVTOcgiXFpXxF-3eAsIOaTJN9MUbKg</string>
+    <string name="google_app_id"                  translatable="false">1:888197856521:android:d93c339a6ce9e6ca1127d8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAB1bVTOcgiXFpXxF-3eAsIOaTJN9MUbKg</string>
+    <string name="google_storage_bucket"          translatable="false">slice-wallet.appspot.com</string>
+    <string name="project_id"                     translatable="false">slice-wallet</string>
+</resources>

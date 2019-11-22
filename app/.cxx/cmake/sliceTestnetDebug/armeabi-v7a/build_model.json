@@ -1,0 +1,76 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/Tysmacpro/Downloads/byndwallet-android",
+      "sdkFolder": "/Users/Tysmacpro/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/app/build/intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/app",
+      "makeFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/.cxx",
+      "cxxFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx",
+      "ndkFolder": "/Users/Tysmacpro/Library/Android/sdk/ndk/20.1.5948944",
+      "ndkVersion": "20.1.5948944",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [
+      "-DANDROID_TOOLCHAIN\u003dclang"
+    ],
+    "cFlagList": [
+      "-DBITCOIN_TESTNET\u003d1"
+    ],
+    "cppFlagsList": [],
+    "variantName": "sliceTestnetDebug",
+    "soFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/app/build/intermediates/cmake/sliceTestnetDebug/lib",
+    "objFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/app/build/intermediates/cmake/sliceTestnetDebug/obj",
+    "jsonFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cmake/sliceTestnetDebug",
+    "gradleBuildOutputFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cxx/sliceTestnetDebug",
+    "isDebuggableEnabled": true,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [
+      "core-lib"
+    ]
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 23,
+  "cxxBuildFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cmake/sliceTestnetDebug/armeabi-v7a",
+  "jsonFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cmake/sliceTestnetDebug/armeabi-v7a/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cxx/sliceTestnetDebug/armeabi-v7a",
+  "objFolder": "/Users/Tysmacpro/Downloads/byndwallet-android/app/build/intermediates/cmake/sliceTestnetDebug/obj/armeabi-v7a",
+  "buildCommandFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cmake/sliceTestnetDebug/armeabi-v7a/build_command.txt",
+  "buildOutputFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cmake/sliceTestnetDebug/armeabi-v7a/build_output.txt",
+  "modelOutputFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cmake/sliceTestnetDebug/armeabi-v7a/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cxx/sliceTestnetDebug/armeabi-v7a/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cxx/sliceTestnetDebug/armeabi-v7a/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cxx/sliceTestnetDebug/armeabi-v7a/build_generation_state.json",
+    "cacheKeyFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cxx/sliceTestnetDebug/armeabi-v7a/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cxx/sliceTestnetDebug/armeabi-v7a/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cxx/sliceTestnetDebug/armeabi-v7a/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cxx/sliceTestnetDebug/armeabi-v7a/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cmake/sliceTestnetDebug/armeabi-v7a/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cmake/sliceTestnetDebug/armeabi-v7a/compile_commands.json"
+}

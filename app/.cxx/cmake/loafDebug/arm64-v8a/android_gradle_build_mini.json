@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/Tysmacpro/Downloads/byndwallet-android/app/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/Tysmacpro/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cmake/loafDebug/arm64-v8a --target clean"
+  ],
+  "libraries": {
+    "core-lib-Debug-arm64-v8a": {
+      "artifactName": "core-lib",
+      "buildCommand": "/Users/Tysmacpro/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/Tysmacpro/Downloads/byndwallet-android/app/.cxx/cmake/loafDebug/arm64-v8a --target core-lib",
+      "abi": "arm64-v8a",
+      "output": "/Users/Tysmacpro/Downloads/byndwallet-android/app/build/intermediates/cmake/loafDebug/obj/arm64-v8a/libcore-lib.so"
+    }
+  }
+}
